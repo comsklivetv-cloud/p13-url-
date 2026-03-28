@@ -1,5 +1,4 @@
-{
-  "movies": [
+ [
     {
       "id": "300002",
       "name": "B4U Movies",
@@ -1466,4 +1465,4 @@
       "drm_license": "9ecfc67bf2dd54fa84495c4c299c51ec:85337048d7be42ef66f6198a99376fa7"
         }
   ]
-}  
+
